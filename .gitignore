@@ -1,0 +1,4 @@
+/target
+/.idea
+# Do not commit your private info.
+config.toml
